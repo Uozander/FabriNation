@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/FabriNation/FabriNation/Content/BP_Industry.uasset",
+				"D:/FabriNation/FabriNation/Content/UI_Industry.uasset",
 				"C:/Users/BEALJ1/Documents/FabriNation/Content/BP_Preview.uasset",
 				"C:/Users/BEALJ1/Documents/FabriNation/Content/TopDown/Maps/TopDownMap.umap",
 				"C:/Users/BEALJ1/Documents/FabriNation/Content/TopDown/Blueprints/BP_TopDownController.uasset",

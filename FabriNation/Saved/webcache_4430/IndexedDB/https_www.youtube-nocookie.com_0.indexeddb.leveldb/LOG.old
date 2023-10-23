@@ -1,0 +1,6 @@
+2023/09/29-21:40:42.404 5b6c Creating DB C:/Users/BEALJ1/Documents/GitHub/FabriNation/FabriNation/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/09/29-21:40:42.412 5b6c Reusing MANIFEST C:/Users/BEALJ1/Documents/GitHub/FabriNation/FabriNation/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/29-21:58:15.151 72c8 Level-0 table #5: started
+2023/09/29-21:58:15.160 72c8 Level-0 table #5: 1166 bytes OK
+2023/09/29-21:58:15.161 72c8 Delete type=0 #3
+2023/09/29-21:58:15.162 72c8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

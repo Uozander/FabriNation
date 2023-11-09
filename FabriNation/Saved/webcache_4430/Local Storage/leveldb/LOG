@@ -1,3 +1,6 @@
-2023/10/27-13:28:46.016 6834 Reusing MANIFEST C:/Users/BEALJ1/Documents/GitHub/FabriNation/FabriNation/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2023/10/27-13:28:46.022 6834 Recovering log #4
-2023/10/27-13:28:46.023 6834 Reusing old log C:/Users/BEALJ1/Documents/GitHub/FabriNation/FabriNation/Saved/webcache_4430\Local Storage\leveldb/000004.log 
+2023/11/09-00:02:43.877 411c Reusing MANIFEST C:/Users/BEALJ1/Documents/GitHub/FabriNation/FabriNation/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/11/09-00:02:43.884 411c Recovering log #4
+2023/11/09-00:02:43.885 411c Reusing old log C:/Users/BEALJ1/Documents/GitHub/FabriNation/FabriNation/Saved/webcache_4430\Local Storage\leveldb/000004.log 
+2023/11/09-00:04:37.939 2d10 Level-0 table #8: started
+2023/11/09-00:04:37.942 2d10 Level-0 table #8: 18265 bytes OK
+2023/11/09-00:04:37.944 2d10 Delete type=0 #4
